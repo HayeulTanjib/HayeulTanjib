@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HayeulTanjib
 - 👀 I’m interested in Explore new opportunities
 - 🌱 I’m currently learning Cloud Computing, Automation, CI/CD tools
-- 💞️ I’m looking to collaborate on Python/DevOps Projects
+- 💞️ I’m looking to collaborate on Vanila JS/React Projects
 - 📫 How to reach me tanjib.cse@gmail.com
 
 <!---
